@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvusThreadSafeLinkedList", "pvusThreadSafeLinkedList\pvusThreadSafeLinkedList.csproj", "{DBE989AC-CD78-426E-BA6A-66F24EEAAB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE989AC-CD78-426E-BA6A-66F24EEAAB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE989AC-CD78-426E-BA6A-66F24EEAAB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE989AC-CD78-426E-BA6A-66F24EEAAB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE989AC-CD78-426E-BA6A-66F24EEAAB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B18638-665D-4262-A602-DD39F1E04FC4}
+	EndGlobalSection
+EndGlobal
